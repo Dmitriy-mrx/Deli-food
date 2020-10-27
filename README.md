@@ -6,5 +6,8 @@
 <ul>
   Запуск приложения:
   <li>npm i / yarn</li>
-  <li>nmp start </li>
+  <li>npm start </li>
   </ul>
+
+<h3>Регистрация</h3>
+<img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/mainPage.png"/>
