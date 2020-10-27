@@ -11,3 +11,21 @@
 
 <h3>Регистрация</h3>
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/mainPage.png"/>
+<h4>Вам предоставлена возможность зарегистрироваться за пользователя или за курьера. </h4>
+
+
+<h3>Регистрация за курьера</h3>
+<img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/courierAuth.png"/>
+
+<h3>Регистрация за покупателя</h3>
+<img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/userAuth.png"/>
+
+<h3>Страница курьера для создания заказа,
+<img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/courierOrder.png"/>
+  при заполнении всех полей,
+  Ваш заказ отправляеться на главную страницу,
+  где покупатель может выбрать Ваш заказ.
+  Если покупателя заинтересует Ваш заказ и он закажет его,
+  Вам на почту придет оповещение о конкретном место положении покупателя.
+</h3>
+
