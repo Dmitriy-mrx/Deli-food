@@ -8,17 +8,21 @@
   <li>npm i / yarn</li>
   <li>npm start </li>
   </ul>
+<hr>
 
 <h3>Регистрация</h3>
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/mainPage.png"/>
 <h4>Вам предоставлена возможность зарегистрироваться за пользователя или за курьера. </h4>
 
+<hr>
 
 <h3>Регистрация за курьера</h3>
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/courierAuth.png"/>
+<hr>
 
 <h3>Регистрация за покупателя</h3>
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/userAuth.png"/>
+<hr>
 
 <h3>Страница курьера для создания заказа,
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/courierOrder.png"/>
@@ -28,14 +32,20 @@
   Если покупателя заинтересует Ваш заказ и он закажет его,
   Вам на почту придет оповещение о конкретном место положении покупателя.
 </h3>
+<hr>
+
 <h3>
   Страница покупателя,где Вы можете указать свой конкретный адресс и фильтрации возможных заказов поблизости.
     </h3>
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/userInfo.png"/>
+<hr>
   
   <h2>В разработке проекта участвовали</h2>
   <h3> <a href="https://github.com/Dmitriy-mrx">Дмитрий Тюгаев</a> </h3>
-  <h3> <a href="https://github.com/LamNik324"> Никита Ламбин </a>  </h3>
+<hr>
+    <h3> <a href="https://github.com/LamNik324"> Никита Ламбин </a>  </h3>
+<hr>
+  
   <h3> <a href="https://github.com/romaperlos">Роман Сахнин </a> </h3>
   
 
