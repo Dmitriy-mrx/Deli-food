@@ -34,8 +34,8 @@
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/userInfo.png"/>
   
   <h2>В разработке проекта участвовали</h2>
-  <a href="https://github.com/Dmitriy-mrx">Дмитрий Тюгаев</a>
-  <h3> </h3>
-  <h3> </h3>
+  <h3> <a href="https://github.com/Dmitriy-mrx">Дмитрий Тюгаев</a> </h3>
+  <h3> <a href="https://github.com/LamNik324"> Никита Ламбин </a>  </h3>
+  <h3> <a href="https://github.com/romaperlos">Роман Сахнин </a> </h3>
   
 
