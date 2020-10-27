@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/userAuth.png"/>
 <hr>
 
-<h3>Страница курьера для создания заказа,
+<h3>Страница курьера для создания заказа
 <img src="https://raw.githubusercontent.com/LamNik324/Deli-food/master/courierOrder.png"/>
   при заполнении всех полей,
   Ваш заказ отправляеться на главную страницу,
